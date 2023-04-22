@@ -14,3 +14,5 @@
 > Блок схема [Схема Итог](https://user-images.githubusercontent.com/122878791/233771943-5e8c80da-3cb5-4a2a-a5c9-9b0efa7212cd.jpg)
 > 
 > Программа решения задачи содержится в файле [Program.txt](https://github.com/Sofia-Lugano/Itogi_Bloka/files/11300640/Program.tx)
+
+программа решения ![итоги](https://user-images.githubusercontent.com/122878791/233773241-cde26f4e-878e-45fc-89a9-98431824fbd2.jpg
