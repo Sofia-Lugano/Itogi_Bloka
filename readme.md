@@ -1,4 +1,4 @@
-Алгоритм решения:
+# Алгоритм решения:
 
 1.Делаем перебор значений из исходного массива
 
@@ -10,6 +10,8 @@
 
 
 
- Блок схема алгоитм ![Схема Итог](https://user-images.githubusercontent.com/122878791/233768253-ae6f9192-5561-40f5-82fc-a46ce0780d6c.jpg)
+> Блок схема алгоритм 
+> [Схема Итог](https://user-images.githubusercontent.com/122878791/233768253-ae6f9192-5561-40f5-82fc-a46ce0780d6c.jpg)
 
-Программа решения задачи содержится в файле  [Program.txt](https://github.com/Sofia-Lugano/Itogi_Bloka/files/11300508/Program.txt)
+> Программа решения задачи содержится в файле  [Program.txt](https://github.com/Sofia-Lugano/Itogi_Bloka/files/11300508/Program.txt)
+ 
